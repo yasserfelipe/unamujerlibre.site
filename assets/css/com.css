@@ -231,7 +231,7 @@ tr {
       margin-bottom: 10px; 
       padding: 22px 44px; border-color: #ff5535; border-width: 0px; 
       border-radius: 6px; 
-      background: linear-gradient(to bottom, ##7ED957 0%, #7ED957 100%); 
+      background: linear-gradient(to bottom, ##7ED957 100%, #7ED957 100%); 
       box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
       text-decoration: none!important;
     }
