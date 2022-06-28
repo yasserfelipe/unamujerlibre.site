@@ -18,7 +18,7 @@
 }
 
 * {
-  font-family: 'Oswald', sans-serif;
+  font-family: helvetica, arial, sans-serif;
 }
 
 body {
@@ -188,11 +188,11 @@ tr {
 }
 
 .fb-reply-button {
-  background: #4080ff;
-  border: 1px solid #4080ff;
+  background: #7ED957;
+  border: 1px solid #7ED957;
   border-radius: 3px;
   box-sizing: border-box;
-  color: #fff;
+  color: #7ED957;
   font-size: 0.75em;
   padding: 5px 7.5px;
   text-shadow: none;
@@ -231,7 +231,7 @@ tr {
       margin-bottom: 10px; 
       padding: 22px 44px; border-color: #ff5535; border-width: 0px; 
       border-radius: 6px; 
-      background: linear-gradient(to bottom, #FFD105 100%, #FFD105 0%); 
+      background: linear-gradient(to bottom, #008037 100%, #008037 0%); 
       box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
       text-decoration: none!important;
     }
@@ -267,7 +267,7 @@ tr {
       margin: .2em 0 -.5em; 
       font-size: 15px; 
       color: #f5e051; 
-      font-family: arimo; 
+      font-family: Cabin; 
       font-weight: bold; 
       font-style: italic;
       text-shadow: #000000 0px 1px 0px;
